@@ -50,8 +50,6 @@ The Other Repos merged and managed by this repo (Please do not use this for the 
 }
 ```
 I pride myself on having things easily accessible and contained. I manually add all the mods to my repo, there is not a single ounce of automation.
-
-To make things even simpler i merged all the json files so that there is no duplicate games and also intend to clean up the metadata
-
 In the spirit of decentralization and the original project [Coffeeshop](https://github.com/timkicker/coffeeshop) (Although all of this is on github) 
-There is other people hosting their own repos. The raw links have been added above in the json format, for easy copy and paste to fill your library :3
+
+To make things even simpler i merged all the json files so that there is no duplicate games and also intend to clean up the metadata.
