@@ -1,3 +1,21 @@
 [submodule "SSB-Wii-U-mods"]
 	path = SSB-Wii-U-mods
 	url = https://github.com/Jepixfred/SSB-Wii-U-mods.git
+[submodule "Wii-U-Mods"]
+	path = Wii-U-Mods
+	url = https://github.com/QuackVR-maker/Wii-U-Mods.git
+[submodule "Wiiu-coffeshop-mod-repo-gamebanana"]
+	path = Wiiu-coffeshop-mod-repo-gamebanana
+	url = https://github.com/opsychoses-dev/Wiiu-coffeshop-mod-repo-gamebanana.git
+[submodule "funtum-coffeeshop-repo"]
+	path = funtum-coffeeshop-repo
+	url = https://github.com/ItsFuntum/funtum-coffeeshop-repo.git
+[submodule "grouxcl-coffeeshop-repo"]
+	path = grouxcl-coffeeshop-repo
+	url = https://github.com/GrouxCL/grouxcl-coffeeshop-repo.git
+[submodule "coffeeshop-repo"]
+	path = coffeeshop-repo
+	url = https://github.com/FujimaruR/coffeeshop-repo.git
+[submodule "mocha-coffeeshop-repo"]
+	path = mocha-coffeeshop-repo
+	url = https://github.com/jacobmckibbin-hub/mocha-coffeeshop-repo.git
