@@ -1,7 +1,29 @@
 # Gamebanana-vault-CoffeeShop-mods-
 Github repo hosting gamebanana mods for ease of use with coffeshop
 
-Other Repos by other people (Copy and paste Template for config.json, My repo link is included dw): 
+Simple setup:
+
+All you need to do is create a config.json file in SD:/wiiu/apps/coffeeshop/ and paste this link in this format into it.
+
+```
+{
+  "repos": [
+    "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/refs/heads/main/Gamebanana%20vault%20(CoffeeShop%20mods)/repo.json"
+  ]
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+The Other Repos merged and managed by this repo (Please do not use this for the config.json, as you will have duplicate games. Which is exactly what [Gamebanana-vault](https://github.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/tree/main) is trying to avoid): 
 
 ```
 {
