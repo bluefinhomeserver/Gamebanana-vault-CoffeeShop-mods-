@@ -16,7 +16,7 @@ All you need to do is create a config.json file in SD:/wiiu/apps/coffeeshop/ and
 Just copy and paste to fill your library :3
 ---
 
-The Other repos .json files merged and managed by [Gamebanana-vault](https://github.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/tree/main) repo: 
+The Other repos .json files merged and managed by [Gamebanana-vault](https://github.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/tree/main): 
 
 ```
 {
