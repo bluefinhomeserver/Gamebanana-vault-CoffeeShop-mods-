@@ -1,0 +1,34 @@
+{
+  "name": "Super Mario 3D World",
+  "icon": "https://images.gamebanana.com/img/ico/games/5c6c321475339.png",
+  "titleIds": [
+    "0005000010145D00",
+    "0005000010145C00",
+    "0005000010106100"
+  ],
+  "mods": [
+    {
+      "id": "kaizo-m3dw",
+      "name": "Kaizo Mario 3D World",
+      "type": "mod",
+      "version": "2.69",
+      "author": "SurfRay",
+      "description": "Mario's back and this time, I don't think he's gonna have it so easy...",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/100-90_5f61ecb12a8c8.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f62ddc3d123a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f62e16705e25.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f62e1bd99eaf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f5775d8a57de.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f59fed790b3b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_5f5ba5c1146d2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/100-90_6065bde95d75c.jpg"
+      ],
+      "download": "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/kaizo-m3dw/KaizoMario3DWorld.zip",
+      "releaseDate": "2021-04-01",
+      "license": "CC BY-NC",
+      "tags": ["kaizo", "levels", "texture", "model"],
+      "fileSize": 69500000
+    }
+  ]
+}

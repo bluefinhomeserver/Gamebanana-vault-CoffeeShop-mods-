@@ -1,0 +1,388 @@
+{
+  "name": "Mario Kart 8",
+  "icon": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_MarioKart8_image1600w.jpg",
+  "titleIds": [
+    "000500001010EB00",
+    "000500001010EC00",
+    "000500001010ED00"
+  ],
+  "mods": [
+    {
+      "id": "ctgpu",
+      "name": "CTGP-U",
+      "type": "modpack",
+      "version": "Zeta",
+      "author": "Lloyd Nabbit",
+      "description": "Features: 17 Custom Tracks, 12 Custom Grand Prix Icons, Text Edits, Boot Screen, Music for Tracks, meta files if you wish to inject, menu screens",
+      "download": "https://gamebanana.com/dl/457032",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5bc62f810b0bf.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5bc62ca7931a0.webp https://images.gamebanana.com/img/ss/mods/5bc62cd97755a.webp"
+      ],
+      "tags": [
+        "Custom-Tracks"
+      ]
+    },
+    {
+      "id": "mk8universal",
+      "name": "Mario Kart 8 Univeral",
+      "type": "modpack",
+      "version": "1.6.2?",
+      "author": "D13GO",
+      "description": "Custom Tracks, and Custom Characters/Skins, I think different menus and other stuff? I don't know fully, the modpack page doesn't tell me much",
+      "download": "https://download1085.mediafire.com/2bic1l8lkvdgZsm_yGS_tHhGnnifi4OPcGc6iJvWxKV9juYKJZEo6tPMpfe4yca5xu4duL93rPtL1fzcpiBl_NzMTmFLzhCYPYHhUEJnQVIvF1pYcKSb2IEoN4PMv-bExHHjAGxnINAJ7BzzxndNKjS-VOHii-8tdfl8CR0C8HLpVw/uxwozmb2rftqnv0/MK8_Universal_Lite.rar",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/67ea450944d37.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69fa0c7d73bdb.jpg https://images.gamebanana.com/img/ss/mods/69fa0c8f456f8.jpg https://images.gamebanana.com/img/ss/mods/69fa0c7d5747c.jpg https://images.gamebanana.com/img/ss/mods/69fa0c7d67b64.jpg https://images.gamebanana.com/img/ss/mods/69fa0c7d713af.jpg https://images.gamebanana.com/img/ss/mods/69fa0c7d6be9c.jpg"
+      ]
+    },
+    {
+      "id": "mariokarteclipse",
+      "name": "Mario Kart Eclipse",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "Chris404",
+      "description": ". Custom texture courses / 14 with DLC\n. Texture edited characters / Custom Characters\n. Custom music / music from MKB for Wii tracks including other music from MKB\n. Edited texts \n. And more\n\nNOTE: If you have the EU version of Mario Kart 8 this mod will work perfectly I have not tried this with a US version of the game. No idea if it will work with the US version of the game\n\nP.S I don't know what version MK Eclipse is on...",
+      "download": "https://drive.google.com/uc?export=download&id=1hmUTqFrR_lsjthcfarRnKrv5DGFDC-od",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/68fd124f32734.jpg"
+    },
+    {
+      "id": "datpagsmariokart8",
+      "name": "Mario Kart: DatPags Edition",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "DatPags",
+      "description": "it's a giant modpack combining some of the best and most fun mods created for Mario Kart 8, and now it's yours to play!",
+      "download": "https://gamebanana.com/dl/389922",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5b50e69899c37.webp"
+    },
+    {
+      "id": "mariokartgalaxy",
+      "name": "Mario Kart Galaxy",
+      "type": "modpack",
+      "version": "1.2",
+      "author": "Gabox :)",
+      "description": "This modpack brings 51 tracks,\n\n-has 4 cups with only Nitro tracks,\n\n-4 cups with only Retro tracks,\n\n-and another 4 with both Nitro and Retro tracks\n\n-The Modpack supports both English and Latin American Spanish\n\n-Gabox submitted this modpack on GameBanana",
+      "download": "https://drive.google.com/uc?export=download&id=12AjdRa7TD0n3qCRy9KHDtVyNatXUXk7w",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6999e43476332.jpg"
+    },
+    {
+      "id": "divengerssmodpack",
+      "name": "Divengerss Mod Pack",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "TeknoThom",
+      "description": "This mod pack includes everything ever created by Divengerss so far. This includes all of his custom tracks, karts, and items.",
+      "download": "https://gamebanana.com/dl/594698",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/60ccd15698207.jpg"
+    }
+    {
+      "id": "dummydum-mod",
+      "name": "Dummy Mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "ExampleUser",
+      "description": "A simple example mod that demonstrates the basic structure of a CupStore mod entry.",
+      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
+      "screenshots": [
+        "https://picsum.photos/seed/mk8mod1a/800/450",
+        "https://picsum.photos/seed/mk8mod1b/800/450"
+      ],
+      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
+      "releaseDate": "2024-01-15",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 204800,
+      "requirements": [],
+      "changelog": "1.0.0 - Initial release"
+    },
+    {
+      "id": "custom-music-pack",
+      "name": "Custom Music Pack",
+      "type": "mod",
+      "version": "2.1.0",
+      "author": "MusicModder",
+      "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
+      "thumbnail": "https://picsum.photos/seed/mk8music/400/225",
+      "screenshots": [
+        "https://picsum.photos/seed/mk8musica/800/450",
+        "https://picsum.photos/seed/mk8musicb/800/450"
+      ],
+      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
+      "releaseDate": "2024-03-10",
+      "license": "CC BY-NC-SA",
+      "tags": ["music"],
+      "fileSize": 52428800,
+      "changelog": "2.1.0 - Added 10 new tracks\n2.0.0 - Full soundtrack replacement\n1.0.0 - Initial release"
+    },
+    {
+      "id": "retro-track-pack",
+      "name": "Retro Track Textures",
+      "type": "mod",
+      "version": "1.3.2",
+      "author": "RetroFan",
+      "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
+      "thumbnail": "https://picsum.photos/seed/mk8retro/400/225",
+      "screenshots": [
+        "https://picsum.photos/seed/mk8retroa/800/450",
+        "https://picsum.photos/seed/mk8retrob/800/450",
+        "https://picsum.photos/seed/mk8retroc/800/450"
+      ],
+      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
+      "releaseDate": "2024-02-20",
+      "license": "CC BY",
+      "tags": ["course", "texture"],
+      "fileSize": 10485760,
+      "changelog": "1.3.2 - Fixed UV mapping on Koopa Troopa Beach\n1.3.0 - Added Rainbow Road retro style\n1.0.0 - Initial release"
+    },
+    {
+      "id": "ultimate-bundle",
+      "name": "Ultimate MK8 Bundle",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "ExampleUser",
+      "description": "A curated bundle combining the Custom Music Pack and Retro Track Textures into one install.",
+      "thumbnail": "https://picsum.photos/seed/mk8bundle/400/225",
+      "screenshots": [
+        "https://picsum.photos/seed/mk8bundlea/800/450"
+      ],
+      "includes": [
+        "custom-music-pack",
+        "retro-track-pack"
+      ],
+      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
+      "releaseDate": "2024-04-01",
+      "tags": ["music", "course", "texture"],
+      "fileSize": 62914560
+    }
+     {
+      "id": "squidwardmariokart",
+      "name": "Squidward joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "He really wishes he weren't there right now. His mouth flaps in the wind also, with a permanently disinterested face.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5ad6b502eeb0f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5ad6b502eeb0f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad6b5e9286c3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad6b5080b147.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad7ff10cafec.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad7feec793a3.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/squidwardmariokart/squidwardmariokart.zip",
+      "releaseDate": "2018-04-18",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1464664
+    },
+    {
+      "id": "spongebobmk8",
+      "name": "Spongebob joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "I'm ready! I'm ready! I'm ready! I'm ready!",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaec889b71.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaeec5e0b0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaf03b6aa0.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/spongebobmk8/spongebobmk8.zip",
+      "releaseDate": "2018-04-12",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1939723
+    },
+    {
+      "id": "shrekkart8",
+      "name": "Shrek joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "Ogres have layers. Wasn't too happy how the rig came out on this one due to poly count, might redo down the line.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5ad38d62a176e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5ad38d7ddaf63.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad38dd4ade4c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/shrekkart8/shrekkart8.zip",
+      "releaseDate": "2018-04-15",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1199959
+    },
+    {
+      "id": "doofupdated",
+      "name": "Dr. Doofenshmirtz",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RedYoshiKart",
+      "description": "A Mario Kart 8 Mod? PERRY THE MARIO KART 8 MOD? Over Iggy,",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64289e6124e5c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/doofupdated/doofupdated.zip",
+      "releaseDate": "2023-04-01",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1109799
+    },
+    {
+      "id": "crewmate",
+      "name": "Crewmate+",
+      "type": "mod",
+      "version": "1.1.0",
+      "author": "St!nktofu",
+      "description": "This mod adds the Crewmate from Among Us over Shy Guy. It includes: + A model + UI icons (menu, minimap and race results) + UI text (menu and race results) + An emblem (on kart and touchscreen horn button) + Sound effects (character select screen, horn and Super Horn)",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212a074940.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212b561a4b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212c7abc1b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212d5072d4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212e8b788c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212fb20387.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/Crewmate%2B/Crewmate+.zip",
+      "releaseDate": "2022-11-06",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 10106271,
+      "changelog": "1.1.0 - Horn Emblems"
+    }
+    {
+      "id": "mkgenerations",
+      "name": "Mario Kart Generations",
+      "type": "modpack",
+      "version": "1.3.1",
+      "author": "UNREALII-",
+      "description": "The Newest Mario kart 8 Modpack! Mario Kart Generations includes: Custom Menu's + 48 Custom Tracks + Custom Music",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/530-90_6474e711986c9.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081511af92.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081517b183.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081513c3ab.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_6620815041d9e.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081526c9f9.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_661c201f6a3be.jpg"
+      ],
+      "download": [
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/MarioKartGenerations.zip",
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/mapobj.zip",
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/course.zip"
+      ],
+      "releaseDate": "2024-04-18",
+      "license": "CC BY-NC",
+      "tags": ["ui", "skin", "music", "course"],
+      "fileSize": 2810000000
+    },
+    
+    {
+      "id": "squidwardmariokart",
+      "name": "Squidward joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "He really wishes he weren't there right now. His mouth flaps in the wind also, with a permanently disinterested face.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5ad6b502eeb0f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5ad6b502eeb0f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad6b5e9286c3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad6b5080b147.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad7ff10cafec.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad7feec793a3.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/squidwardmariokart/squidwardmariokart.zip",
+      "releaseDate": "2018-04-18",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1464664
+    },
+    {
+      "id": "spongebobmk8",
+      "name": "Spongebob joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "I'm ready! I'm ready! I'm ready! I'm ready!",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaec889b71.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaeec5e0b0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaf03b6aa0.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/spongebobmk8/spongebobmk8.zip",
+      "releaseDate": "2018-04-12",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1939723
+    },
+    {
+      "id": "shrekkart8",
+      "name": "Shrek joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "Ogres have layers. Wasn't too happy how the rig came out on this one due to poly count, might redo down the line.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5ad38d62a176e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5ad38d7ddaf63.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad38dd4ade4c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/shrekkart8/shrekkart8.zip",
+      "releaseDate": "2018-04-15",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1199959
+    },
+    {
+      "id": "doofupdated",
+      "name": "Dr. Doofenshmirtz",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RedYoshiKart",
+      "description": "A Mario Kart 8 Mod? PERRY THE MARIO KART 8 MOD? Over Iggy,",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64289e6124e5c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/doofupdated/doofupdated.zip",
+      "releaseDate": "2023-04-01",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1109799
+    },
+    {
+      "id": "crewmate",
+      "name": "Crewmate+",
+      "type": "mod",
+      "version": "1.1.0",
+      "author": "St!nktofu",
+      "description": "This mod adds the Crewmate from Among Us over Shy Guy. It includes: + A model + UI icons (menu, minimap and race results) + UI text (menu and race results) + An emblem (on kart and touchscreen horn button) + Sound effects (character select screen, horn and Super Horn)",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212a074940.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212b561a4b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212c7abc1b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212d5072d4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212e8b788c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212fb20387.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/Crewmate%2B/Crewmate+.zip",
+      "releaseDate": "2022-11-06",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 10106271,
+      "changelog": "1.1.0 - Horn Emblems"
+    }
+  ]
+}
