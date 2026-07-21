@@ -8,6 +8,8 @@ Other Repos by other people (Copy and paste Template for config.json, My repo li
     "https://raw.githubusercontent.com/Jepixfred/SSB-Wii-U-mods/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/QuackVR-maker/Wii-U-Mods/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/opsychoses-dev/Wiiu-coffeshop-mod-repo-gamebanana/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/ItsFuntum/funtum-coffeeshop-repo/main/repo.json",
+    "https://raw.githubusercontent.com/GrouxCL/grouxcl-coffeeshop-repo/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/refs/heads/main/Gamebanana%20vault%20(CoffeeShop%20mods)/repo.json"
   ]
 }
