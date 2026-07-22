@@ -75,7 +75,7 @@
       "description": "This mod pack includes everything ever created by Divengerss so far. This includes all of his custom tracks, karts, and items.",
       "download": "https://gamebanana.com/dl/594698",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/60ccd15698207.jpg"
-    }
+    },
     {
       "id": "dummydum-mod",
       "name": "Dummy Mod",
@@ -154,8 +154,8 @@
       "releaseDate": "2024-04-01",
       "tags": ["music", "course", "texture"],
       "fileSize": 62914560
-    }
-     {
+    },
+    {
       "id": "squidwardmariokart",
       "name": "Squidward joins Mario Kart!",
       "type": "mod",
@@ -255,7 +255,7 @@
       "tags": ["skin"],
       "fileSize": 10106271,
       "changelog": "1.1.0 - Horn Emblems"
-    }
+    },
     {
       "id": "mkgenerations",
       "name": "Mario Kart Generations",

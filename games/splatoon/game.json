@@ -186,24 +186,6 @@
          ]
       },
       {
-         "id":"677362",
-         "name":"Splatoon2 TestMap",
-         "type":"mod",
-         "version":"2",
-         "author":"taiyakisanntarou",
-         "description":"I ported the test map from the Splatoon 2 Debug Build to Splatoon 1.\n\nThis mod was made on a whim, so I haven't tested it on the console, and there are probably bugs.",
-         "download":"https://gamebanana.com/dl/1704932",
-         "thumbnail":"https://gamebanana.com/mods/embeddables/677362?type=large",
-         "screenshots":[
-            "https://images.gamebanana.com/img/ss/mods/6a0adb661b421.jpg"
-         ],
-         "license":"This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-         "tags":[
-            "Modeled",
-            "Maps"
-         ]
-      },
-      {
          "id":"677744",
          "name":"Beta Sloshers restored!",
          "type":"mod",
